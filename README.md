@@ -1,1 +1,58 @@
-# women-in-it-rebuild
+= Women in IT : Error 404 SOURCES
+
+== Articles
+
+* https://www.digischool.fr/etudes-sup/femmes-ingenieures/infographie-les-femmes-ingenieures-en-chiffres-30043.html[Infographie : les femmes ingénieures en chiffres]
+* https://medium.com/tech-diversity-files/the-real-reason-women-quit-tech-and-how-to-address-it-6dfb606929fd[Pourquoi les femmes quittent la technique]
+* http://www.ftu-namur.org/fichiers/CESRW-fem&tic-pvgv.pdf[Enquête belge sur la place des femmes dans les TIC]
+* http://fortune.com/2014/08/26/performance-review-gender-bias/[Les biais sexistes dans les évaluations]
+* https://www.lemonde.fr/campus/article/2017/12/11/femmes-et-informatique-vingt-ans-de-desamour_5227726_4401467.html[Les femmes de plus en plus minoritaires dans le secteur de l’informatique]
+* https://www.franceinter.fr/emissions/le-telephone-sonne/le-telephone-sonne-06-mars-2019[Deux fois moins de femmes ingénieures en informatique en 30 ans : comment inverser la tendance ?]
+* https://journals.openedition.org/ticetsociete/955[Effet de genre : le paradoxe des études d’informatique]
+* https://www.ouest-france.fr/leditiondusoir/data/45622/reader/reader.html#!preferred/1/package/45622/pub/66114/page/15[Pourquoi il y a-t-il si peu de femmes dans l'informatique ?]
+* https://www.rhinfo.com/thematiques/approche-globale-de-lentreprise/quels-impacts-de-la-diversite-sur-la-performance-de[Quels impacts de la diversité sur la performance de l’entreprise ?]
+* http://www.fse.gouv.fr/dossiers-thematiques/la-diversite-en-entreprise-source-de-richesses-et-levier-de-performance-0[La diversité en entreprise, source de richesses et levier de performance]
+
+== Données
+
+* https://www.egalite-femmes-hommes.gouv.fr/wp-content/uploads/2013/12/2013-079.pdf[Chiffres de la DARES]
+* https://datausa.io/profile/soc/15113X/#demographics[Data USA, Software Demographics]
+* https://insights.stackoverflow.com/survey/2018/#demographics[Enquête Stack Overflow 2018]
+
+== Vidéos
+
+=== Conférences
+
+* https://www.youtube.com/watch?v=znX4pFJdiYg[The Hitchikker's guide to diversity (FR), Conférence d'Audrey Neveu (FR)]
+* https://www.youtube.com/watch?v=ALAuI5JLsYs[Les filles sont-elles nulles en maths]
+* https://www.youtube.com/watch?v=2E2SzUYdlCc[Où sont les femmes, Conférence de  Sarah Haim-Lubczanski & Cécilia Bossard]
+* https://www.youtube.com/watch?v=3eMSKHkXvww[Why shaving my head made me a better programmer, Conférence d'Alex Qin (EN)]
+
+=== Les pubs
+
+* https://www.youtube.com/watch?v=nrE9ICnEvZU[1991 Pub Compaq]
+* https://www.youtube.com/watch?v=qZrcto5rOsY[1993 Pub Compaq]
+* https://www.youtube.com/watch?v=Un_tpdGNFqg[1986 Pub Xerox]
+
+== Les réseaux
+
+* https://www.duchess-france.org/[Duchess]
+* https://womenintech.fi/[Women in Tech]
+* https://wiki.debian.org/DebianWomen[DebianWoman]
+* https://girlsintech.org/[Girls in Tech]
+
+=== Actions auprès des scolaires
+
+* https://codinggouter.org/doku.php?id=start[Coding goûter]
+* http://www.ellesbougent.com/[Elles Bougent]
+
+=== Actions de promotion des métiers du numérique
+
+* https://femmes-numerique.fr/[Femmes@numerique]
+* https://talentsdunumerique.com/[Talents du numérique]
+* http://starther.org/[StartHer]
+
+=== Actions de reconversion pour adultes
+
+* http://railsgirls.com/[Rail girls]
+* https://nodeschool.io[Nodeschool]# women-in-it-rebuild
