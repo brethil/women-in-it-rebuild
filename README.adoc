@@ -55,4 +55,4 @@
 === Actions de reconversion pour adultes
 
 * http://railsgirls.com/[Rail girls]
-* https://nodeschool.io[Nodeschool]# women-in-it-rebuild
+* https://nodeschool.io[Nodeschool]
