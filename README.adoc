@@ -1,5 +1,9 @@
 = Women in IT : Error 404 SOURCES
 
+== Slides
+
+* https://github.com/brethil/women-in-it-rebuild/edit/master/slides.pdf[Slides]
+
 == Articles
 
 * https://www.digischool.fr/etudes-sup/femmes-ingenieures/infographie-les-femmes-ingenieures-en-chiffres-30043.html[Infographie : les femmes ingénieures en chiffres]
